@@ -1,0 +1,6 @@
+{
+  "name": "JSON Editor & Viewer Pro",
+  "description": "Potente visor y editor interactivo de archivos JSON con sanitización HTML segura, edición modal, filtrado profundo, selección múltiple y exportación con integridad total.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
